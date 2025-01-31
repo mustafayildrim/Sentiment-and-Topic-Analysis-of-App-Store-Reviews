@@ -25,7 +25,6 @@ This project analyzes sentiment and topics of **F-Droid and competitor app revie
 - **Scikit-learn**
 - **Latent Dirichlet Allocation (LDA)**
 - **Num2Words**
-- **Google Colab Data Table**
 
 ## Installation
 
